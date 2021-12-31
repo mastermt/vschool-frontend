@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# VSchool FrontEnd
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was Student Information System (SIS) for the VSchool FrontEnd program.
 
 ## Available Scripts
 
