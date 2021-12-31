@@ -18,6 +18,9 @@
 .env.test.local
 .env.production.local
 
+# exercise_files from https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site
+exercise_files
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
