@@ -17,6 +17,7 @@
 .env.development.local
 .env.test.local
 .env.production.local
+.vscode
 
 # exercise_files from https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site
 exercise_files
